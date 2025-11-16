@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Huyen Dinh 👋
 
-<!--
-**huyendt1610/huyendt1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack .NET Developer transitioning to Data Science  
+Building projects in Python, Machine Learning, and data-driven web applications.
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend / Messaging::** .NET, .NET Core, REST APIs, GraphQL, RabbitMQ
+**Frontend:** Angular  
+**Databases:** SQL, MySQL, Oracle  
+**DevOps / Tools:** Git, Docker, Jenkins  
+**Architecture / Design:** Domain Driven Design (DDD)  
+**Currently Learning:** Python, Data Science, Machine Learning, Pandas, Scikit-learn, Databricks, Fabric, Spark
+
+## 📫 Contact
+- LinkedIn: [huyendinh](https://linkedin.com/in/huyendinh1610)
