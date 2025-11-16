@@ -15,5 +15,5 @@ Architecture / Design: Domain Driven Design (DDD)
 
 **B.Sc. in Information and Technology** (2011) & **MBA** (2022)
 
-### 📫 Contact
+📫 Contact
 - LinkedIn: [huyendinh](https://linkedin.com/in/huyendinh1610)
