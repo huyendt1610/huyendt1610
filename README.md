@@ -1,7 +1,8 @@
 # Hi, I'm Huyen Dinh 👋
 
 Full-Stack .NET Developer transitioning to Data Science  
-Building projects in Python, Machine Learning, and data-driven web applications.
+Currently exploring Advanced Data Analytics, focusing on data processing and the use of machine learning, visualization with Python & Power BI, cloud tools including Azure Databricks & Spark SQL, MLOps/CI-CD
+
 
 ## 🛠 Skills
 
