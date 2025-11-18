@@ -14,6 +14,3 @@ Architecture / Design: Domain Driven Design (DDD)
 **Currently Learning:** Python, Data Science, Machine Learning, Pandas, Scikit-learn, Databricks, Fabric, Spark
 
 **B.Sc. in Information and Technology** (2011) & **MBA** (2022)
-
-📫 Contact
-- LinkedIn: [huyendinh](https://linkedin.com/in/huyendinh1610)
