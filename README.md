@@ -1,7 +1,7 @@
 
 
 Full-Stack .NET Developer transitioning to Data Science  
-Currently exploring Advanced Data Analytics, focusing on data processing and the use of machine learning, visualization with Python & Power BI, cloud tools including Azure Databricks & Spark SQL, MLOps/CI-CD
+Currently exploring Advanced Data Analytics, focusing on data processing and the use of machine learning, visualization with Python & Power BI, cloud tools including Azure Fabric & Spark SQL, MLOps/CI-CD
 
 
 ### 🛠 Skills
