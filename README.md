@@ -4,11 +4,11 @@ ML Engineer focused on building end-to-end AI systems — from training pipeline
 to production deployment and monitoring.
 
 **What I work on:**
-- 🔁 **MLOps** — Azure ML, GitHub Actions CI/CD, Terraform IaC, DVC, MLflow
-- 🤖 **GenAI** — RAG pipelines, vector search (ChromaDB, FAISS), LangChain, Streamlit
-- ☁️ **Cloud** — Azure (ML, Container Apps, ADLS, ACR)
-- 📊 **Data Engineering** — Microsoft Fabric, medallion architecture, Evidently drift monitoring
-- 🐳 **Serving** — FastAPI, Docker, Prometheus, Grafana
+- **MLOps** — Azure ML, GitHub Actions CI/CD, Terraform IaC, DVC, MLflow
+- **GenAI** — RAG pipelines, vector search (ChromaDB, FAISS), LangChain, Streamlit
+- **Cloud** — Azure (ML, Container Apps, ADLS, ACR)
+- **Data Engineering** — Microsoft Fabric, medallion architecture, Evidently drift monitoring
+- **Serving** — FastAPI, Docker, Prometheus, Grafana
 
 **Languages:** Python · C# · TypeScript · JavaScript
 
